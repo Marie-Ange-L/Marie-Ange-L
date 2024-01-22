@@ -3,7 +3,7 @@
 I'm a passionate Front-End Developer based in Toulouse, France. Here you'll find a glimpse of my journey, projects, and interests.
 
 ## About Me
-- 💼 I work a freelancer.
+- 💼 I work as a freelancer.
 - 🔭 I’m currently working on a custom made Pomodoro App.
 - 🌱 I'm currently perfectionning my React skills.
 
