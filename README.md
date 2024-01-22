@@ -1,23 +1,12 @@
 # Hello, I'm Marie-Ange 👋
 
-I'm a passionate Front-End Developer based in Toulouse, France. Here you'll find a glimpse of my journey, projects, and interests.
+I'm a Front-End Developer based in Toulouse, France.
 
-## About Me
-- 💼 I work as a freelancer.
-- 🔭 I’m currently working on a custom made Pomodoro App.
-- 🌱 I'm currently perfectionning my React skills.
-
-## My Toolbox
-
-💻 Proficient in creating:
-  - Responsive and visually pleasing React UIs
-  - Interactive and animated components using CSS and JavaScript
-  - Seamless user experiences with a focus on design aesthetics and accessibility
-
-💡 Excited about:
-  - Nurturing creativity to generate innovative project ideas
-  - Tackling challenges head-on and finding creative solutions
-  - Constantly seeking ways to improve and optimize project outcomes
+## About
+👩‍💻 SheCodes alumni.
+💼 Former web project manager turned freelance developer.
+🔭 Currently working on a custom made Pomodoro App.
+🌱 I'm also perfectionning my React skills thanks to this [Traversy Media workshop](https://www.traversymedia.com/Modern-React-Front-To-Back-Course).
 
 ## Let's Connect
 
