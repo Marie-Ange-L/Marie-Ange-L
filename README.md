@@ -3,10 +3,10 @@
 I'm a Front-End Developer based in Toulouse, France.
 
 ## About
-👩‍💻 SheCodes alumni.
-💼 Former web project manager turned freelance developer.
-🔭 Currently working on a custom made Pomodoro App.
-🌱 I'm also perfectionning my React skills thanks to this [Traversy Media workshop](https://www.traversymedia.com/Modern-React-Front-To-Back-Course).
+- 👩‍💻 SheCodes alumni.
+- 💼 Former web project manager turned freelance developer.
+- 🔭 Currently working on a custom made Pomodoro App.
+- 🌱 I'm also perfectionning my React skills thanks to this [Traversy Media workshop](https://www.traversymedia.com/Modern-React-Front-To-Back-Course).
 
 ## Let's Connect
 
